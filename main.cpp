@@ -6,7 +6,10 @@
   Versión: 0.1
   Licencia: GNU-GPL
 */
-
+void comprarCamiones()
+{
+  
+}
 /**
   Utilidad para la asignatura: crear relaciones
 
