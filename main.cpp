@@ -8,7 +8,10 @@
 */
 void comprarCamiones()
 {
-  
+  for(int cual=0; cual<flota.size(); cual++)
+  {
+    
+  }
 }
 /**
   Utilidad para la asignatura: crear relaciones
